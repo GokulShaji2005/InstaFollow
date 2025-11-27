@@ -34,9 +34,9 @@ followers_set=set(followers_list)
 notFollowBack=following_set-followers_set
 notFollowing=followers_set-following_set
 
-# notFollowing=followers_set-following_set
-# print(notFollowBack)   
-print(notFollowing)                
+
+print(notFollowBack)   
+# print(notFollowing)                
                      
                 
 
